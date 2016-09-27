@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="28179924762914"
+    token="-6323350647720221477" >
+
+    <task
+        name="javac"
+        duration="4848" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="677" />
+    <task
+        name="verifier"
+        duration="89" />
+
+    <artifact
+        location="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="28179924762914" >
+        <artifact
+            location="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

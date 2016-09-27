@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/res/merged/debug/menu/video.xml",
+        "source": "/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/src/main/res/menu/video.xml"
+    }
+]

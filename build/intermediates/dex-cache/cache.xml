@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/exploded-aar/com.android.support/design/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="e5c61a3169221a89654ffcaaed47bba51cf071ad">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.0.1_a4b5d1f626bfea50ebfcf90612c483d322564d59/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/.gradle/caches/modules-2/files-2.1/com.squareup/otto/1.3.8/cf615176cd1177edf71d3c9605f8dc148fede6be/otto-1.3.8.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/otto-1.3.8_59618a8a6001c7d2524e8550e7806b85762e9508/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.0.1_f75eff9671e57583a6032497e861aef1b1134149/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.1_63df49d65e5869f84226da71ab2e803a5cb89f5e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09e625f3e565f897893a6c33746b99a71c761565">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_550a92ebbfe9b5985c95259592ffa999080a0d43/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.1_24b8973df706684585a9f9ece3f9ffeca4e8f8c9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/0.24.0/42dab493b8f74b164e082f281480c9d493ff89da/rxandroid-0.24.0.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="42dab493b8f74b164e082f281480c9d493ff89da">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxandroid-0.24.0_ca8b35885ae5e7b73c43b1641607200463bb029e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.1_7421707edda7d993c51b8281ffd7917e5f8311f8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/libs/isoviewer-1.0-RC-35.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="c7d2cd7b78de04299aa7ff230545bacd19aa173a">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/2/isoviewer-1.0-RC-35_0109110cba7f984bdb753748556db7567f197af7/classes.dex" />
+    </item>
+    <item
+        jar="/Applications/Android Studio.app/Contents/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.2.4_d0ce76b63ce905fbab3c5d385c8e1b8692010f19/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.4/a607b0e12d2de769dc219e00b60a9b3d9e730d/rxjava-1.0.4.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="00a607b0e12d2de769dc219e00b60a9b3d9e730d">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/rxjava-1.0.4_9c862433877a41a830534d3761fd0e5feb10671a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.1_e740dfb3f79070ef92f55f35f676edb80c2370c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="ab89060fc1a25816d4ad0f2d9c0633091e830e32">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3dfd50dca6ddf281a6cf6523627409021eee4ee5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.0.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
+        <dex dex="/Users/laputan/AndroidWorkPlace/AndroiStudioWorkPlace/VideoInfoViewer2/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.0.1_50350e8ef5026de865728cc8a83948fd14988156/classes.dex" />
+    </item>
+
+</items>

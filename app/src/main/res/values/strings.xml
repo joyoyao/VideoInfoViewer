@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Video Info Viewer</string>
+    <string name="action_select_video">Select Video</string>
+    <string name="action_credits">Credits</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="view_video_info">View Video Info</string>
+    
+    <string name="select_video">Select Video</string>
+    <string name="recent_videos">Recent Videos</string>
+    <string name="video_properties">Properties</string>
+    
+    <string name="key_file_name">Name:</string>
+    <string name="key_file_path">Path:</string>
+    <string name="key_frame_rate">Frame Rate:</string>
+    <string name="key_format">Format:</string>
+    <string name="key_format_profile">Format Profile:</string>
+    <string name="key_codec_id">Codec ID:</string>
+    <string name="key_file_size">File Size:</string>
+    <string name="key_mimetype">MimeType:</string>
+    <string name="key_duration">Duration:</string>
+    <string name="key_resolution">Resolution:</string>
+    <string name="key_bitrate">Bitrate:</string>
+    <string name="key_date">Date:</string>
+    
+    <string name="play_description">Play and pause button</string>
+    <string name="fullscreen_description">Fullscreen button</string>
+    
+    <string name="view_atom_structure">View Atom Structure</string>
+    
+    <string name="expand_box_icon_description">Expand Box Description</string>
+    
+    <string name="box_info_button_description">View Detailed Box Information</string>
+    
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search for property</string>
+
+    <string name="failed_to_open_video">Failed to open video, make sure it is a valid MP4.</string>
+
+    <string name="failed_to_load_atom_structure">Failed to load atom structure</string>
+    
+    <string name="apache_license_title">This software contains the following components licensed under Apache 2.0</string>
+    
+    <string name="mp4parser_title"> - <a href="https://github.com/sannies/mp4parser/">mp4parser</a></string>
+    
+    <string name="gson_title"> - <a href="https://github.com/google/gson/">Gson - Copyright 2008 Google Inc.</a></string>
+
+    <string name="reactivex_title"> - <a href="https://github.com/ReactiveX/RxJava/">RxJava - Copyright 2013 Netflix, Inc</a></string>
+
+    <string name="reactivexandroid_title"> - <a href="https://github.com/ReactiveX/RxAndroid/">RxAndroid - Copyright 2015 The RxAndroid authors</a></string>
+
+    <string name="otto_title"> - <a href="https://github.com/square/otto">Otto - Copyright 2012 Square, Inc. - Copyright 2010 Google, Inc.</a></string>
+
+    <string name="retrolambda_title"> - <a href="https://github.com/orfjackal/retrolambda">Retrolambda - Copyright (c) 2013-2015  Esko Luontola www.orfjackal.net</a></string>
+
+    <string name="gradle_retrolambda_title"> - <a href="https://github.com/evant/gradle-retrolambda">Gradle Retrolambda Plugin - Copyright 2013 Evan Tatarka</a></string>
+    
+    <string name="icon_credit">Icon provided by <a href="http://dribbble.com/sok">Simeon K.</a></string>
+    
+    <string name="video_thumbnail_content_description">Thumbnail from video</string>
+    
+    <string name="onboarding_text">To get started, click here\nto select a video</string>
+    
+    <string name="onboarding_image_content_description">Onboarding arrow pointing at select video button</string>
+    
+    <string name="load_raw_data">Load Raw Data</string>
+    
+    <string name="raw_data">Raw Data</string>
+    
+    <string name="bytes_key">Bytes:</string>
+    
+    <string name="string_key">String:</string>
+
+    <string name="failed_to_get_storage_permission">Failed to get permission to read storage, please enable to use this app.</string>
+    
+</resources>
